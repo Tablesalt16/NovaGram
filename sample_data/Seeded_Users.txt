@@ -1,0 +1,3 @@
+admin@novanet.com / admin123
+alice@novanet.com / alice123
+bob@novanet.com / bob123
